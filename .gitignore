@@ -1,3 +1,6 @@
+# Editor swap files
+.*.swp
+
 # Prerequisites
 *.d
 
@@ -50,3 +53,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Chapter 3
+menu
